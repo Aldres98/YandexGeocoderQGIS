@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/yandex_geocoder" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
